@@ -6,5 +6,6 @@ public class App {
 	    System.out.println("Changes from Dev2");
 
 	    System.out.println("v1.0 Changes 1");
+	    System.out.println("v1.0 Changes 2");
 	}
 }
